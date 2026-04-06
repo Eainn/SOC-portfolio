@@ -61,6 +61,7 @@ This behavior is consistent with brute force attacks attempting unauthorized acc
 ---
 
 ## 📸 Screenshots
-![Alerts](alert-detail.png)
-![Alert Detail](day4-alert-detail.png)
-![Brute Force](day4-failed-login-overview.png)
+![Alerts](alert_overview.png)
+![Alert Detail](alert-detail.png)
+![Bruteforce](FailedLogin_Brruteforce.png)
+![Bruteforce Detail](LoginFailed_Detail.png)
