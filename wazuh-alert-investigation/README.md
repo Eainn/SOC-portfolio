@@ -86,12 +86,19 @@ If this occurred in a real environment:
 
 Performed manual searches in Wazuh to further investigate suspicious activity:
 
+### 🔍 Failed SSH Logins
 - Searched "failed password" to confirm repeated login attempts
 ![failed password](Failed_password.png)
+
+### 🔍 Invalid Users
 - Searched "invalid user" to identify unauthorized account probing
 ![invalid user](Invalid_User.png)
+
+### 🔍 Privilege Escalation
 - Searched "sudo" to analyze privilege escalation activity
 ![sudo](Previllege_Esclation.png)
+
+### 🔍 Authentication Failures
 - Searched "authentication failure" to validate brute-force patterns
 ![authenication failurer](Authenication_failure.png)
 
