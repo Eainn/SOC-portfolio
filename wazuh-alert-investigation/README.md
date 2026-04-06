@@ -6,7 +6,7 @@
 - VMware Workstation Lab
 
 ---
-**Scenario 1: Privilege Escalation Detection**
+## 🔍  **Scenario 1: Privilege Escalation Detection**
 
 **Alert:** Successful sudo to ROOT executed  
 
