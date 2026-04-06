@@ -48,6 +48,14 @@ This behavior is consistent with brute force attacks attempting unauthorized acc
 
 ## 🚨 Severity
 - Medium to High (Level 5–10)
+  
+**Why this is suspicious:**
+- Multiple failed login attempts in a short time
+- Invalid username used
+- Repeated authentication failures
+
+**Potential Risk:**
+If successful, attacker could gain unauthorized access to the system.
 
 ---
 
