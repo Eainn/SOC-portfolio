@@ -26,6 +26,13 @@ My journey to becoming a SOC Analyst – SIEM, log analysis, and threat detectio
 
 ---
 
+## 📄 Log Evidence
+
+Example of failed SSH login attempts:
+- **Failed password for invalid user scriptkiddo from 127.0.0.1 port 22 ssh2**
+
+These logs indicate repeated authentication failures, which is a strong indicator of brute force activity.
+
 ## 🚀 Future Improvements
 
 - Simulate real brute force attacks using tools like Hydra  
