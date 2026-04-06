@@ -21,6 +21,7 @@ This indicates access to sensitive credential data. The alert was triggered due 
 
 **Conclusion:**  
 This activity was expected during lab setup but could indicate suspicious behavior in a production environment.
+
 ![Alerts](alert_overview.png)
 ![Alert Detail](alert-detail.png)
 ---
@@ -86,7 +87,7 @@ If this occurred in a real environment:
 Performed manual searches in Wazuh to further investigate suspicious activity:
 
 - Searched "failed password" to confirm repeated login attempts
-![failed password](Failed_passworrd.png)
+![failed password](Failed_password.png)
 - Searched "invalid user" to identify unauthorized account probing
 ![invalid user](Invalid_User.png)
 - Searched "sudo" to analyze privilege escalation activity
