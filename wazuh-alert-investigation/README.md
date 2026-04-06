@@ -64,7 +64,17 @@ If successful, attacker could gain unauthorized access to the system.
 - Log analysis  
 - Threat detection  
 - Incident investigation  
-- Attack simulation  
+- Attack simulation
+
+## 🧑‍💻 SOC Analyst Response
+
+If this occurred in a real environment:
+
+- Investigate source IP address
+- Block IP after multiple failed attempts
+- Check for successful login attempts after failures
+- Enforce stronger authentication (e.g., disable password login, use SSH keys)
+- Monitor system for further suspicious activity
 
 ---
 
